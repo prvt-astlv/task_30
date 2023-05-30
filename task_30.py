@@ -1,2 +1,2 @@
 def f():
-    return "qwerty"
+    return "this is Tom"
